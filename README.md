@@ -1,2 +1,2 @@
 # .NET-DatabaseFileOpen
-AS400からC#を使用してファイルを開くソフト
+AS400にADO接続しSQLでデータを取得してファイルを開く
